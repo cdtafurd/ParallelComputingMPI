@@ -1,0 +1,735 @@
+
+****  Results for 720p_blur.jpg with a kernel value of: 3 and 1 proccess.  ****
+DATE: 16/06/20 14:37:51
+
+Execution time: 0.2395591
+
+****  Results for 1080p_blur.jpg with a kernel value of: 3 and 1 proccess.  ****
+DATE: 16/06/20 14:37:54
+
+Execution time: 0.5908471
+
+****  Results for 4k_blur.jpg with a kernel value of: 3 and 1 proccess.  ****
+DATE: 16/06/20 14:37:58
+
+Execution time: 2.2458701
+
+****  Results for 720p_blur.jpg with a kernel value of: 5 and 1 proccess.  ****
+DATE: 16/06/20 14:38:01
+
+Execution time: 0.4161781
+
+****  Results for 1080p_blur.jpg with a kernel value of: 5 and 1 proccess.  ****
+DATE: 16/06/20 14:38:03
+
+Execution time: 0.9430331
+
+****  Results for 4k_blur.jpg with a kernel value of: 5 and 1 proccess.  ****
+DATE: 16/06/20 14:38:09
+
+Execution time: 3.7013651
+
+****  Results for 720p_blur.jpg with a kernel value of: 7 and 1 proccess.  ****
+DATE: 16/06/20 14:38:11
+
+Execution time: 0.6350271
+
+****  Results for 1080p_blur.jpg with a kernel value of: 7 and 1 proccess.  ****
+DATE: 16/06/20 14:38:14
+
+Execution time: 1.4605051
+
+****  Results for 4k_blur.jpg with a kernel value of: 7 and 1 proccess.  ****
+DATE: 16/06/20 14:38:22
+
+Execution time: 5.8258621
+
+****  Results for 720p_blur.jpg with a kernel value of: 9 and 1 proccess.  ****
+DATE: 16/06/20 14:38:24
+
+Execution time: 0.9768471
+
+****  Results for 1080p_blur.jpg with a kernel value of: 9 and 1 proccess.  ****
+DATE: 16/06/20 14:38:28
+
+Execution time: 2.4963611
+
+****  Results for 4k_blur.jpg with a kernel value of: 9 and 1 proccess.  ****
+DATE: 16/06/20 14:38:39
+
+Execution time: 8.8935201
+
+****  Results for 720p_blur.jpg with a kernel value of: 11 and 1 proccess.  ****
+DATE: 16/06/20 14:38:42
+
+Execution time: 1.3885161
+
+****  Results for 1080p_blur.jpg with a kernel value of: 11 and 1 proccess.  ****
+DATE: 16/06/20 14:38:47
+
+Execution time: 3.1673111
+
+****  Results for 4k_blur.jpg with a kernel value of: 11 and 1 proccess.  ****
+DATE: 16/06/20 14:39:01
+
+Execution time: 12.6350951
+
+****  Results for 720p_blur.jpg with a kernel value of: 13 and 1 proccess.  ****
+DATE: 16/06/20 14:39:05
+
+Execution time: 1.9036851
+
+****  Results for 1080p_blur.jpg with a kernel value of: 13 and 1 proccess.  ****
+DATE: 16/06/20 14:39:16
+
+Execution time: 9.8086661
+
+****  Results for 4k_blur.jpg with a kernel value of: 13 and 1 proccess.  ****
+DATE: 16/06/20 14:40:39
+
+Execution time: 80.4572931
+
+****  Results for 720p_blur.jpg with a kernel value of: 15 and 1 proccess.  ****
+DATE: 16/06/20 14:40:46
+
+Execution time: 5.5149801
+
+****  Results for 1080p_blur.jpg with a kernel value of: 15 and 1 proccess.  ****
+DATE: 16/06/20 14:41:13
+
+Execution time: 24.5863241
+
+****  Results for 4k_blur.jpg with a kernel value of: 15 and 1 proccess.  ****
+DATE: 16/06/20 14:43:06
+
+Execution time: 110.4666211
+
+****  Results for 720p_blur.jpg with a kernel value of: 3 and 2 proccess.  ****
+DATE: 16/06/20 14:43:08
+
+Execution time: 0.2717612
+
+****  Results for 1080p_blur.jpg with a kernel value of: 3 and 2 proccess.  ****
+DATE: 16/06/20 14:43:11
+
+Execution time: 0.6469672
+
+****  Results for 4k_blur.jpg with a kernel value of: 3 and 2 proccess.  ****
+DATE: 16/06/20 14:43:15
+
+Execution time: 2.4609852
+
+****  Results for 720p_blur.jpg with a kernel value of: 5 and 2 proccess.  ****
+DATE: 16/06/20 14:43:17
+
+Execution time: 0.4227032
+
+****  Results for 1080p_blur.jpg with a kernel value of: 5 and 2 proccess.  ****
+DATE: 16/06/20 14:43:20
+
+Execution time: 0.9910082
+
+****  Results for 4k_blur.jpg with a kernel value of: 5 and 2 proccess.  ****
+DATE: 16/06/20 14:43:29
+
+Execution time: 6.6738942
+
+****  Results for 720p_blur.jpg with a kernel value of: 7 and 2 proccess.  ****
+DATE: 16/06/20 14:43:31
+
+Execution time: 0.6600822
+
+****  Results for 1080p_blur.jpg with a kernel value of: 7 and 2 proccess.  ****
+DATE: 16/06/20 14:43:35
+
+Execution time: 1.5187162
+
+****  Results for 4k_blur.jpg with a kernel value of: 7 and 2 proccess.  ****
+DATE: 16/06/20 14:44:02
+
+Execution time: 25.6316782
+
+****  Results for 720p_blur.jpg with a kernel value of: 9 and 2 proccess.  ****
+DATE: 16/06/20 14:44:05
+
+Execution time: 0.9878562
+
+****  Results for 1080p_blur.jpg with a kernel value of: 9 and 2 proccess.  ****
+DATE: 16/06/20 14:44:15
+
+Execution time: 7.5837322
+
+****  Results for 4k_blur.jpg with a kernel value of: 9 and 2 proccess.  ****
+DATE: 16/06/20 14:45:00
+
+Execution time: 41.6583222
+
+****  Results for 720p_blur.jpg with a kernel value of: 11 and 2 proccess.  ****
+DATE: 16/06/20 14:45:04
+
+Execution time: 2.2046622
+
+****  Results for 1080p_blur.jpg with a kernel value of: 11 and 2 proccess.  ****
+DATE: 16/06/20 14:45:17
+
+Execution time: 10.8712912
+
+****  Results for 4k_blur.jpg with a kernel value of: 11 and 2 proccess.  ****
+DATE: 16/06/20 14:46:19
+
+Execution time: 59.73331
+
+****  Results for 720p_blur.jpg with a kernel value of: 13 and 2 proccess.  ****
+DATE: 16/06/20 14:46:24
+
+Execution time: 3.4014062
+
+****  Results for 1080p_blur.jpg with a kernel value of: 13 and 2 proccess.  ****
+DATE: 16/06/20 14:46:45
+
+Execution time: 17.8286802
+
+****  Results for 4k_blur.jpg with a kernel value of: 13 and 2 proccess.  ****
+DATE: 16/06/20 14:48:13
+
+Execution time: 85.5723962
+
+****  Results for 720p_blur.jpg with a kernel value of: 15 and 2 proccess.  ****
+DATE: 16/06/20 14:48:22
+
+Execution time: 6.8494112
+
+****  Results for 1080p_blur.jpg with a kernel value of: 15 and 2 proccess.  ****
+DATE: 16/06/20 14:48:49
+
+Execution time: 24.9801682
+
+****  Results for 4k_blur.jpg with a kernel value of: 15 and 2 proccess.  ****
+DATE: 16/06/20 14:50:45
+
+Execution time: 113.6707982
+
+****  Results for 720p_blur.jpg with a kernel value of: 3 and 4 proccess.  ****
+DATE: 16/06/20 14:50:48
+
+Execution time: 0.2260164
+
+****  Results for 1080p_blur.jpg with a kernel value of: 3 and 4 proccess.  ****
+DATE: 16/06/20 14:50:50
+
+Execution time: 0.5568494
+
+****  Results for 4k_blur.jpg with a kernel value of: 3 and 4 proccess.  ****
+DATE: 16/06/20 14:50:55
+
+Execution time: 2.4057614
+
+****  Results for 720p_blur.jpg with a kernel value of: 5 and 4 proccess.  ****
+DATE: 16/06/20 14:50:57
+
+Execution time: 0.2926024
+
+****  Results for 1080p_blur.jpg with a kernel value of: 5 and 4 proccess.  ****
+DATE: 16/06/20 14:50:59
+
+Execution time: 0.6974714
+
+****  Results for 4k_blur.jpg with a kernel value of: 5 and 4 proccess.  ****
+DATE: 16/06/20 14:51:04
+
+Execution time: 2.8196284
+
+****  Results for 720p_blur.jpg with a kernel value of: 7 and 4 proccess.  ****
+DATE: 16/06/20 14:51:06
+
+Execution time: 0.4076574
+
+****  Results for 1080p_blur.jpg with a kernel value of: 7 and 4 proccess.  ****
+DATE: 16/06/20 14:51:09
+
+Execution time: 0.9795834
+
+****  Results for 4k_blur.jpg with a kernel value of: 7 and 4 proccess.  ****
+DATE: 16/06/20 14:51:15
+
+Execution time: 3.8180264
+
+****  Results for 720p_blur.jpg with a kernel value of: 9 and 4 proccess.  ****
+DATE: 16/06/20 14:51:17
+
+Execution time: 0.5938914
+
+****  Results for 1080p_blur.jpg with a kernel value of: 9 and 4 proccess.  ****
+DATE: 16/06/20 14:51:21
+
+Execution time: 1.3078844
+
+****  Results for 4k_blur.jpg with a kernel value of: 9 and 4 proccess.  ****
+DATE: 16/06/20 14:51:41
+
+Execution time: 17.8639404
+
+****  Results for 720p_blur.jpg with a kernel value of: 11 and 4 proccess.  ****
+DATE: 16/06/20 14:51:44
+
+Execution time: 0.7918404
+
+****  Results for 1080p_blur.jpg with a kernel value of: 11 and 4 proccess.  ****
+DATE: 16/06/20 14:51:47
+
+Execution time: 2.6377
+
+****  Results for 4k_blur.jpg with a kernel value of: 11 and 4 proccess.  ****
+DATE: 16/06/20 14:52:23
+
+Execution time: 32.9506374
+
+****  Results for 720p_blur.jpg with a kernel value of: 13 and 4 proccess.  ****
+DATE: 16/06/20 14:52:26
+
+Execution time: 1.49216
+
+****  Results for 1080p_blur.jpg with a kernel value of: 13 and 4 proccess.  ****
+DATE: 16/06/20 14:52:40
+
+Execution time: 12.18614
+
+****  Results for 4k_blur.jpg with a kernel value of: 13 and 4 proccess.  ****
+DATE: 16/06/20 14:53:42
+
+Execution time: 59.1805354
+
+****  Results for 720p_blur.jpg with a kernel value of: 15 and 4 proccess.  ****
+DATE: 16/06/20 14:53:53
+
+Execution time: 8.2533424
+
+****  Results for 1080p_blur.jpg with a kernel value of: 15 and 4 proccess.  ****
+DATE: 16/06/20 14:54:18
+
+Execution time: 21.9845164
+
+****  Results for 4k_blur.jpg with a kernel value of: 15 and 4 proccess.  ****
+DATE: 16/06/20 14:55:35
+
+Execution time: 75.90086
+
+****  Results for 720p_blur.jpg with a kernel value of: 3 and 6 proccess.  ****
+DATE: 16/06/20 14:55:39
+
+Execution time: 1.6160566
+
+****  Results for 1080p_blur.jpg with a kernel value of: 3 and 6 proccess.  ****
+DATE: 16/06/20 14:55:44
+
+Execution time: 2.1000376
+
+****  Results for 4k_blur.jpg with a kernel value of: 3 and 6 proccess.  ****
+DATE: 16/06/20 14:55:59
+
+Execution time: 12.31626
+
+****  Results for 720p_blur.jpg with a kernel value of: 5 and 6 proccess.  ****
+DATE: 16/06/20 14:56:02
+
+Execution time: 0.2692336
+
+****  Results for 1080p_blur.jpg with a kernel value of: 5 and 6 proccess.  ****
+DATE: 16/06/20 14:56:04
+
+Execution time: 0.5942436
+
+****  Results for 4k_blur.jpg with a kernel value of: 5 and 6 proccess.  ****
+DATE: 16/06/20 14:56:09
+
+Execution time: 2.3190486
+
+****  Results for 720p_blur.jpg with a kernel value of: 7 and 6 proccess.  ****
+DATE: 16/06/20 14:56:11
+
+Execution time: 0.3368846
+
+****  Results for 1080p_blur.jpg with a kernel value of: 7 and 6 proccess.  ****
+DATE: 16/06/20 14:56:13
+
+Execution time: 0.7546436
+
+****  Results for 4k_blur.jpg with a kernel value of: 7 and 6 proccess.  ****
+DATE: 16/06/20 14:56:20
+
+Execution time: 4.9887736
+
+****  Results for 720p_blur.jpg with a kernel value of: 9 and 6 proccess.  ****
+DATE: 16/06/20 14:56:23
+
+Execution time: 0.4452416
+
+****  Results for 1080p_blur.jpg with a kernel value of: 9 and 6 proccess.  ****
+DATE: 16/06/20 14:56:25
+
+Execution time: 0.9888816
+
+****  Results for 4k_blur.jpg with a kernel value of: 9 and 6 proccess.  ****
+DATE: 16/06/20 14:56:38
+
+Execution time: 10.9131006
+
+****  Results for 720p_blur.jpg with a kernel value of: 11 and 6 proccess.  ****
+DATE: 16/06/20 14:56:41
+
+Execution time: 0.5850516
+
+****  Results for 1080p_blur.jpg with a kernel value of: 11 and 6 proccess.  ****
+DATE: 16/06/20 14:56:44
+
+Execution time: 1.3283486
+
+****  Results for 4k_blur.jpg with a kernel value of: 11 and 6 proccess.  ****
+DATE: 16/06/20 14:57:17
+
+Execution time: 30.5661726
+
+****  Results for 720p_blur.jpg with a kernel value of: 13 and 6 proccess.  ****
+DATE: 16/06/20 14:57:27
+
+Execution time: 7.1058516
+
+****  Results for 1080p_blur.jpg with a kernel value of: 13 and 6 proccess.  ****
+DATE: 16/06/20 14:57:38
+
+Execution time: 9.4523186
+
+****  Results for 4k_blur.jpg with a kernel value of: 13 and 6 proccess.  ****
+DATE: 16/06/20 14:58:28
+
+Execution time: 47.1343726
+
+****  Results for 720p_blur.jpg with a kernel value of: 15 and 6 proccess.  ****
+DATE: 16/06/20 14:58:32
+
+Execution time: 0.9693826
+
+****  Results for 1080p_blur.jpg with a kernel value of: 15 and 6 proccess.  ****
+DATE: 16/06/20 14:58:44
+
+Execution time: 10.2792066
+
+****  Results for 4k_blur.jpg with a kernel value of: 15 and 6 proccess.  ****
+DATE: 16/06/20 14:59:43
+
+Execution time: 56.3541536
+
+****  Results for 720p_blur.jpg with a kernel value of: 3 and 8 proccess.  ****
+DATE: 16/06/20 14:59:46
+
+Execution time: 0.2288228
+
+****  Results for 1080p_blur.jpg with a kernel value of: 3 and 8 proccess.  ****
+DATE: 16/06/20 14:59:48
+
+Execution time: 0.5302028
+
+****  Results for 4k_blur.jpg with a kernel value of: 3 and 8 proccess.  ****
+DATE: 16/06/20 14:59:52
+
+Execution time: 1.8649568
+
+****  Results for 720p_blur.jpg with a kernel value of: 5 and 8 proccess.  ****
+DATE: 16/06/20 14:59:54
+
+Execution time: 0.2437278
+
+****  Results for 1080p_blur.jpg with a kernel value of: 5 and 8 proccess.  ****
+DATE: 16/06/20 14:59:56
+
+Execution time: 0.5570428
+
+****  Results for 4k_blur.jpg with a kernel value of: 5 and 8 proccess.  ****
+DATE: 16/06/20 15:00:01
+
+Execution time: 2.85913
+
+****  Results for 720p_blur.jpg with a kernel value of: 7 and 8 proccess.  ****
+DATE: 16/06/20 15:00:03
+
+Execution time: 0.3063998
+
+****  Results for 1080p_blur.jpg with a kernel value of: 7 and 8 proccess.  ****
+DATE: 16/06/20 15:00:05
+
+Execution time: 0.6711888
+
+****  Results for 4k_blur.jpg with a kernel value of: 7 and 8 proccess.  ****
+DATE: 16/06/20 15:00:10
+
+Execution time: 2.5694518
+
+****  Results for 720p_blur.jpg with a kernel value of: 9 and 8 proccess.  ****
+DATE: 16/06/20 15:00:12
+
+Execution time: 0.3909848
+
+****  Results for 1080p_blur.jpg with a kernel value of: 9 and 8 proccess.  ****
+DATE: 16/06/20 15:00:15
+
+Execution time: 0.8998358
+
+****  Results for 4k_blur.jpg with a kernel value of: 9 and 8 proccess.  ****
+DATE: 16/06/20 15:00:24
+
+Execution time: 7.5041378
+
+****  Results for 720p_blur.jpg with a kernel value of: 11 and 8 proccess.  ****
+DATE: 16/06/20 15:00:27
+
+Execution time: 0.4792688
+
+****  Results for 1080p_blur.jpg with a kernel value of: 11 and 8 proccess.  ****
+DATE: 16/06/20 15:00:30
+
+Execution time: 1.78769
+
+****  Results for 4k_blur.jpg with a kernel value of: 11 and 8 proccess.  ****
+DATE: 16/06/20 15:00:44
+
+Execution time: 12.5316488
+
+****  Results for 720p_blur.jpg with a kernel value of: 13 and 8 proccess.  ****
+DATE: 16/06/20 15:00:47
+
+Execution time: 0.6290218
+
+****  Results for 1080p_blur.jpg with a kernel value of: 13 and 8 proccess.  ****
+DATE: 16/06/20 15:00:51
+
+Execution time: 1.3794398
+
+****  Results for 4k_blur.jpg with a kernel value of: 13 and 8 proccess.  ****
+DATE: 16/06/20 15:01:13
+
+Execution time: 19.7585568
+
+****  Results for 720p_blur.jpg with a kernel value of: 15 and 8 proccess.  ****
+DATE: 16/06/20 15:01:15
+
+Execution time: 0.7561128
+
+****  Results for 1080p_blur.jpg with a kernel value of: 15 and 8 proccess.  ****
+DATE: 16/06/20 15:01:23
+
+Execution time: 6.20309
+
+****  Results for 4k_blur.jpg with a kernel value of: 15 and 8 proccess.  ****
+DATE: 16/06/20 15:01:57
+
+Execution time: 31.2071388
+
+****  Results for 720p_blur.jpg with a kernel value of: 3 and 10 proccess.  ****
+DATE: 16/06/20 15:02:01
+
+Execution time: 1.37652710
+
+****  Results for 1080p_blur.jpg with a kernel value of: 3 and 10 proccess.  ****
+DATE: 16/06/20 15:02:06
+
+Execution time: 2.42048710
+
+****  Results for 4k_blur.jpg with a kernel value of: 3 and 10 proccess.  ****
+DATE: 16/06/20 15:02:27
+
+Execution time: 17.66750310
+
+****  Results for 720p_blur.jpg with a kernel value of: 5 and 10 proccess.  ****
+DATE: 16/06/20 15:02:30
+
+Execution time: 0.60407410
+
+****  Results for 1080p_blur.jpg with a kernel value of: 5 and 10 proccess.  ****
+DATE: 16/06/20 15:02:33
+
+Execution time: 1.20802
+
+****  Results for 4k_blur.jpg with a kernel value of: 5 and 10 proccess.  ****
+DATE: 16/06/20 15:02:38
+
+Execution time: 2.86956110
+
+****  Results for 720p_blur.jpg with a kernel value of: 7 and 10 proccess.  ****
+DATE: 16/06/20 15:02:41
+
+Execution time: 0.66667810
+
+****  Results for 1080p_blur.jpg with a kernel value of: 7 and 10 proccess.  ****
+DATE: 16/06/20 15:02:44
+
+Execution time: 1.90387
+
+****  Results for 4k_blur.jpg with a kernel value of: 7 and 10 proccess.  ****
+DATE: 16/06/20 15:02:51
+
+Execution time: 5.25548510
+
+****  Results for 720p_blur.jpg with a kernel value of: 9 and 10 proccess.  ****
+DATE: 16/06/20 15:02:54
+
+Execution time: 0.74200910
+
+****  Results for 1080p_blur.jpg with a kernel value of: 9 and 10 proccess.  ****
+DATE: 16/06/20 15:02:57
+
+Execution time: 1.27268010
+
+****  Results for 4k_blur.jpg with a kernel value of: 9 and 10 proccess.  ****
+DATE: 16/06/20 15:03:13
+
+Execution time: 13.15311110
+
+****  Results for 720p_blur.jpg with a kernel value of: 11 and 10 proccess.  ****
+DATE: 16/06/20 15:03:16
+
+Execution time: 0.79385310
+
+****  Results for 1080p_blur.jpg with a kernel value of: 11 and 10 proccess.  ****
+DATE: 16/06/20 15:03:19
+
+Execution time: 1.45770110
+
+****  Results for 4k_blur.jpg with a kernel value of: 11 and 10 proccess.  ****
+DATE: 16/06/20 15:03:39
+
+Execution time: 17.60228
+
+****  Results for 720p_blur.jpg with a kernel value of: 13 and 10 proccess.  ****
+DATE: 16/06/20 15:03:42
+
+Execution time: 0.90861210
+
+****  Results for 1080p_blur.jpg with a kernel value of: 13 and 10 proccess.  ****
+DATE: 16/06/20 15:03:45
+
+Execution time: 1.65182610
+
+****  Results for 4k_blur.jpg with a kernel value of: 13 and 10 proccess.  ****
+DATE: 16/06/20 15:04:10
+
+Execution time: 22.69195310
+
+****  Results for 720p_blur.jpg with a kernel value of: 15 and 10 proccess.  ****
+DATE: 16/06/20 15:04:13
+
+Execution time: 1.15792
+
+****  Results for 1080p_blur.jpg with a kernel value of: 15 and 10 proccess.  ****
+DATE: 16/06/20 15:04:17
+
+Execution time: 1.90112210
+
+****  Results for 4k_blur.jpg with a kernel value of: 15 and 10 proccess.  ****
+DATE: 16/06/20 15:04:49
+
+Execution time: 29.61178110
+
+****  Results for 720p_blur.jpg with a kernel value of: 3 and 12 proccess.  ****
+DATE: 16/06/20 15:04:55
+
+Execution time: 1.74611912
+
+****  Results for 1080p_blur.jpg with a kernel value of: 3 and 12 proccess.  ****
+DATE: 16/06/20 15:05:02
+
+Execution time: 2.87786112
+
+****  Results for 4k_blur.jpg with a kernel value of: 3 and 12 proccess.  ****
+DATE: 16/06/20 15:05:12
+
+Execution time: 6.12092812
+
+****  Results for 720p_blur.jpg with a kernel value of: 5 and 12 proccess.  ****
+DATE: 16/06/20 15:05:18
+
+Execution time: 2.54136
+
+****  Results for 1080p_blur.jpg with a kernel value of: 5 and 12 proccess.  ****
+DATE: 16/06/20 15:05:25
+
+Execution time: 2.74167712
+
+****  Results for 4k_blur.jpg with a kernel value of: 5 and 12 proccess.  ****
+DATE: 16/06/20 15:05:37
+
+Execution time: 7.28696412
+
+****  Results for 720p_blur.jpg with a kernel value of: 7 and 12 proccess.  ****
+DATE: 16/06/20 15:05:43
+
+Execution time: 2.95941
+
+****  Results for 1080p_blur.jpg with a kernel value of: 7 and 12 proccess.  ****
+DATE: 16/06/20 15:05:50
+
+Execution time: 3.27381312
+
+****  Results for 4k_blur.jpg with a kernel value of: 7 and 12 proccess.  ****
+DATE: 16/06/20 15:06:05
+
+Execution time: 10.49209212
+
+****  Results for 720p_blur.jpg with a kernel value of: 9 and 12 proccess.  ****
+DATE: 16/06/20 15:06:11
+
+Execution time: 3.33680212
+
+****  Results for 1080p_blur.jpg with a kernel value of: 9 and 12 proccess.  ****
+DATE: 16/06/20 15:06:23
+
+Execution time: 9.19660112
+
+****  Results for 4k_blur.jpg with a kernel value of: 9 and 12 proccess.  ****
+DATE: 16/06/20 15:06:47
+
+Execution time: 19.63425112
+
+****  Results for 720p_blur.jpg with a kernel value of: 11 and 12 proccess.  ****
+DATE: 16/06/20 15:06:50
+
+Execution time: 1.57070112
+
+****  Results for 1080p_blur.jpg with a kernel value of: 11 and 12 proccess.  ****
+DATE: 16/06/20 15:06:56
+
+Execution time: 4.12272612
+
+****  Results for 4k_blur.jpg with a kernel value of: 11 and 12 proccess.  ****
+DATE: 16/06/20 15:07:26
+
+Execution time: 27.66290112
+
+****  Results for 720p_blur.jpg with a kernel value of: 13 and 12 proccess.  ****
+DATE: 16/06/20 15:07:33
+
+Execution time: 3.15979012
+
+****  Results for 1080p_blur.jpg with a kernel value of: 13 and 12 proccess.  ****
+DATE: 16/06/20 15:07:47
+
+Execution time: 9.71956312
+
+****  Results for 4k_blur.jpg with a kernel value of: 13 and 12 proccess.  ****
+DATE: 16/06/20 15:08:21
+
+Execution time: 31.43884
+
+****  Results for 720p_blur.jpg with a kernel value of: 15 and 12 proccess.  ****
+DATE: 16/06/20 15:08:29
+
+Execution time: 4.90969
+
+****  Results for 1080p_blur.jpg with a kernel value of: 15 and 12 proccess.  ****
+DATE: 16/06/20 15:08:40
+
+Execution time: 8.71597912
+
+****  Results for 4k_blur.jpg with a kernel value of: 15 and 12 proccess.  ****
+DATE: 16/06/20 15:09:15
+
+Execution time: 31.60401112
